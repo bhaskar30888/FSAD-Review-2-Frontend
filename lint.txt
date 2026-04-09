@@ -1,0 +1,10 @@
+C:\Users\sasib\Documents\FSAD Review-1\src\components\ui\Input.tsx:4:18 @typescript-eslint/no-empty-object-type
+C:\Users\sasib\Documents\FSAD Review-1\src\context\AuthContext.tsx:35:21 no-empty
+C:\Users\sasib\Documents\FSAD Review-1\src\context\AuthContext.tsx:77:14 react-refresh/only-export-components
+C:\Users\sasib\Documents\FSAD Review-1\src\context\ThemeContext.tsx:66:14 react-refresh/only-export-components
+C:\Users\sasib\Documents\FSAD Review-1\src\pages\admin\AdminResources.tsx:243:113 @typescript-eslint/no-explicit-any
+C:\Users\sasib\Documents\FSAD Review-1\src\pages\admin\AdminSettings.tsx:19:13 react-hooks/set-state-in-effect
+C:\Users\sasib\Documents\FSAD Review-1\src\pages\admin\AdminUsers.tsx:152:71 @typescript-eslint/no-explicit-any
+C:\Users\sasib\Documents\FSAD Review-1\src\pages\admin\AdminUsers.tsx:306:89 @typescript-eslint/no-explicit-any
+C:\Users\sasib\Documents\FSAD Review-1\src\pages\dashboard\Profile.tsx:36:25 no-empty
+C:\Users\sasib\Documents\FSAD Review-1\src\pages\Login.tsx:35:25 no-empty

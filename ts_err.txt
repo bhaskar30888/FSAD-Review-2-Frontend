@@ -1,0 +1,9 @@
+src/components/ui/Button.tsx(1,10): error TS1484: 'ButtonHTMLAttributes' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/ui/Button.tsx(2,20): error TS2307: Cannot find module '../lib/utils' or its corresponding type declarations.
+src/components/ui/Card.tsx(1,10): error TS1484: 'HTMLAttributes' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/ui/Input.tsx(1,10): error TS1484: 'InputHTMLAttributes' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/context/AuthContext.tsx(1,47): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/dashboard/MentalHealth.tsx(13,1): error TS6133: 'useAuth' is declared but its value is never read.
+src/pages/Landing.tsx(10,5): error TS6133: 'Users' is declared but its value is never read.
+src/pages/Login.tsx(3,19): error TS1484: 'UserRole' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Login.tsx(7,40): error TS2724: '"lucide-react"' has no exported member named 'ShieldStar'. Did you mean 'ShieldUser'?
